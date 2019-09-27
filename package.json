@@ -1,6 +1,6 @@
 {
   "name": "creategrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react component to easily create css-grids",
   "main": "index.js",
   "scripts": {
