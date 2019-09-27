@@ -4,6 +4,8 @@ A react component for easily creating css-grids
 
     npm i creategrid
 
+## Example
+
 ```
 <CreateGrid
   gap="1rem"
@@ -37,6 +39,10 @@ A react component for easily creating css-grids
   ]}
 />
 ```
+
+## Result
+
+![alt text](file:///Users/albingroen/Desktop/grid-result.png "CSS grid result")
 
 ### Contribute
 
