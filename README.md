@@ -8,7 +8,7 @@
     
 Or with NPM
 
-    npm i creategrid
+    npm install creategrid
 
 ## Example
 
