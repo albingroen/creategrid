@@ -1,7 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 
-class CreateGrid extends Component {
+/**
+ * A react component for easily creating css-grids.
+ */
+class CreateGrid extends React.Component {
   static propTypes = {
     /** An array of objects represnting a item in the grid. */
     items: PropTypes.array,
