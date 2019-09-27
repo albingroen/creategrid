@@ -7,6 +7,8 @@ A react component for easily creating css-grids
 ## Example
 
 ```
+import CreateGrid from "creategrid";
+
 <CreateGrid
   gap="1rem"
   style={{ maxWidth: "1200px", margin: "0 auto" }}
