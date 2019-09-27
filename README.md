@@ -42,7 +42,7 @@ A react component for easily creating css-grids
 
 ## Result
 
-![alt text](file:///Users/albingroen/Desktop/grid-result.png "CSS grid result")
+![alt text](https://drive.google.com/open?id=10XaF9czXSbdeai4s_45Y_qRHV7-bq3QJ "CSS grid result")
 
 ### Contribute
 
