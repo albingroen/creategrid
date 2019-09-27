@@ -2,6 +2,8 @@
 
 A react component for easily creating css-grids
 
+    npm i creategrid
+
 ```
 <CreateGrid
   gap="1rem"
