@@ -2,7 +2,13 @@
 
 🖼 A react component for easily creating css-grids
 
+## Installation
+
     yarn add creategrid
+    
+Or with NPM
+
+    npm i creategrid
 
 ## Example
 
