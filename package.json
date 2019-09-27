@@ -1,0 +1,38 @@
+{
+  "name": "creategrid",
+  "version": "1.0.0",
+  "description": "A react component to easily create css-grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albingroen/grid.git"
+  },
+  "keywords": [
+    "react",
+    "grid",
+    "component",
+    "css-grid"
+  ],
+  "author": "@albingroen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albingroen/grid/issues"
+  },
+  "homepage": "https://github.com/albingroen/grid#readme",
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/preset-react": "^7.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
