@@ -23,26 +23,24 @@ import CreateGrid from "creategrid";
   items={[
     {
       background: "#006aff",
-      opacity: 1,
       col: "1 / 3"
     },
     {
-      opacity: 0.8,
       background: "#ff0099",
       row: "1 / 4",
       col: "3 / 4"
     },
     {
-      opacity: 0.6
+      background: "#eeeeee"
     },
     {
-      opacity: 0.4
+      background: "#eeeeee"
     },
     {
-      opacity: 0.2
+      background: "#eeeeee"
     },
     {
-      opacity: 0.1
+      background: "#eeeeee"
     }
   ]}
 />
