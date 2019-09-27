@@ -1,8 +1,8 @@
 # creategrid
 
-A react component for easily creating css-grids
+🖼 A react component for easily creating css-grids
 
-    npm i creategrid
+    yarn add creategrid
 
 ## Example
 
