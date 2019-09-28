@@ -43,7 +43,9 @@ class CreateGrid extends React.Component {
               gridColumn: item.col || "auto",
               ...item.style
             }}
-          />
+          >
+            {item.children && item.children}
+          </div>
         ))}
       </div>
     );

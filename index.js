@@ -74,7 +74,7 @@ function (_React$Component) {
             gridRow: item.row || "auto",
             gridColumn: item.col || "auto"
           }, item.style)
-        });
+        }, item.children && item.children);
       }));
     }
   }]);
