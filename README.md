@@ -46,6 +46,23 @@ import CreateGrid from "creategrid";
 />
 ```
 
+## Props
+
+### Gap
+Specifies the grid-gap property on the grid
+
+### Style
+A regular style object for styling the grid
+
+### minItemWidth
+The minimum width of a grid-item
+
+### minItemHeight
+The minimum height of a grid-item
+
+### items
+A array of objects
+
 ## Result
 
 ![CSS grid result](https://drive.google.com/uc?export=view&id=10XaF9czXSbdeai4s_45Y_qRHV7-bq3QJ "CSS grid result")
